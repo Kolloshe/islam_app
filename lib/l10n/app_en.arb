@@ -1,0 +1,363 @@
+{
+    "@@locale": "en",
+    "@@last_modified": "2024-01-01T00:00:00.000000",
+    "home": "Home",
+    "quran": "Quran",
+    "azkar": "Azkar",
+    "search": "Search",
+    "settings": "Settings",
+    "language": "Language",
+    "all": "All",
+    "morning": "Morning",
+    "evening": "Evening",
+    "postPrayer": "Post-Prayer",
+    "general": "General",
+    "showTranslation": "Show Translation",
+    "showTransliteration": "Show Transliteration",
+    "refreshFromApi": "Refresh from API",
+    "clearCache": "Clear Cache",
+    "resetAllProgress": "Reset All Progress",
+    "loadingAzkarData": "Loading azkar data...",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "close": "Close",
+    "ok": "OK",
+    "gotIt": "Got it",
+    "clear": "Clear",
+    "apply": "Apply",
+    "confirm": "Confirm",
+    "reset": "Reset",
+    "readingPreferences": "Reading Preferences",
+    "defaultTranslation": "Default Translation",
+    "showVerseNumbers": "Show Verse Numbers",
+    "displayVerseNumbers": "Display verse numbers in Arabic text",
+    "displayTranslation": "Display English translation below Arabic text",
+    "showTransliterationDesc": "Display romanized Arabic text",
+    "audioPreferences": "Audio Preferences",
+    "playbackSpeed": "Playback Speed",
+    "autoPlay": "Auto Play",
+    "continuousPlayback": "Continuous Playback",
+    "downloadQuality": "Download Quality",
+    "audioQualityHigh": "High (128 kbps)",
+    "audioQualityMedium": "Medium (64 kbps)",
+    "audioQualityLow": "Low (32 kbps)",
+    "displaySettings": "Display Settings",
+    "darkMode": "Dark Mode",
+    "fontSize": "Font Size",
+    "arabicFontSize": "Arabic Font Size",
+    "theme": "Theme",
+    "systemTheme": "System",
+    "lightTheme": "Light",
+    "darkTheme": "Dark",
+    "dataManagement": "Data Management",
+    "clearCacheDesc": "This will clear all cached data. Are you sure?",
+    "resetSettings": "Reset Settings",
+    "clearAllDownloads": "Clear All Downloads",
+    "exportBookmarks": "Export Bookmarks",
+    "importBookmarks": "Import Bookmarks",
+    "exportReadingProgress": "Export Reading Progress",
+    "clearReadingHistory": "Clear Reading History",
+    "resetAllData": "Reset All Data",
+    "aboutApp": "About App",
+    "version": "Version 1.0.0",
+    "madeWithLove": "Made with ❤️ for the Muslim Ummah",
+    "contactSupport": "Contact Support",
+    "rateApp": "Rate App",
+    "shareApp": "Share App",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "resetToDefaults": "Reset to Defaults",
+    "sahihInternational": "Sahih International",
+    "pickthall": "Pickthall",
+    "yusufAli": "Yusuf Ali",
+    "urduJalandhry": "Urdu - Jalandhry",
+    "indonesian": "Indonesian",
+    "translation": "Translation: ",
+    "searchQuran": "Search Quran",
+    "searchHint": "Search for verses, words, or topics...",
+    "searchHistory": "Search History",
+    "clearHistory": "Clear",
+    "recentSearches": "Recent Searches",
+    "searchResults": "Search Results",
+    "noResults": "No results found",
+    "searchError": "Search error occurred",
+    "bookmarks": "Bookmarks",
+    "bookmarksSelected": "selected",
+    "filters": "Filters: ",
+    "clearAllFilters": "Clear All",
+    "addBookmark": "Add Bookmark",
+    "editBookmark": "Edit Bookmark",
+    "deleteBookmarks": "Delete Bookmarks",
+    "deleteBookmarksConfirm": "Delete {count} bookmark(s)?",
+    "@deleteBookmarksConfirm": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "shareBookmarks": "Sharing {count} bookmark(s)",
+    "@shareBookmarks": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "bookmarkStatistics": "Bookmark Statistics",
+    "clearAllBookmarks": "Clear All Bookmarks",
+    "bookmarksExported": "Bookmarks exported successfully",
+    "bookmarksImported": "{count} bookmark(s) imported",
+    "@bookmarksImported": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "allBookmarksCleared": "All bookmarks cleared",
+    "bookmarkUpdated": "Bookmark updated successfully",
+    "startReading": "Start Reading",
+    "select": "Select",
+    "downloads": "Downloads",
+    "filter": "Filter",
+    "statistics": "Statistics",
+    "clearCompleted": "Clear Completed",
+    "active": "Active",
+    "pause": "Pause",
+    "resume": "Resume",
+    "searchDownloads": "Search Downloads",
+    "filterDownloads": "Filter Downloads",
+    "downloadType": "Download Type:",
+    "allTypes": "All Types",
+    "downloadStatus": "Download Status:",
+    "allStatuses": "All Statuses",
+    "clearFilters": "Clear Filters",
+    "downloadStatistics": "Download Statistics",
+    "activeDownloads": "Active Downloads",
+    "clearingDownloads": "Clearing downloads...",
+    "downloadsCleared": "All downloaded audio files cleared successfully",
+    "surahAlreadyDownloaded": "Surah already downloaded",
+    "downloadStarted": "Download started",
+    "downloadFailed": "Failed to start download",
+    "verseCopied": "Verse copied to clipboard",
+    "surahCopied": "Surah copied to clipboard",
+    "surahCopiedForSharing": "Surah copied for sharing",
+    "bookmarkFeatureComingSoon": "Surah bookmark feature coming soon",
+    "shareFeature": "Share functionality would be implemented here",
+    "loading": "Loading...",
+    "loadingSurahs": "Loading surahs...",
+    "noSurahsFound": "No surahs found",
+    "available": "Available",
+    "errorPlayingRecitation": "Error playing recitation: {error}",
+    "@errorPlayingRecitation": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "playing": "Playing {surah} by {reciter}",
+    "@playing": {
+        "placeholders": {
+            "surah": {
+                "type": "String"
+            },
+            "reciter": {
+                "type": "String"
+            }
+        }
+    },
+    "noRecitersAvailable": "No reciters available",
+    "filterSurahs": "Filter Surahs",
+    "meccan": "Meccan",
+    "medinan": "Medinan",
+    "shareSurah": "Share Surah",
+    "bookmarkSurah": "Bookmark Surah",
+    "playingAudio": "Playing Audio",
+    "audioFeatures": "Features:",
+    "highQualityAudio": "• High-quality audio",
+    "multipleReciters": "• Multiple reciters",
+    "backgroundPlayback": "• Background playback",
+    "speedControl": "• Speed control",
+    "offlineListening": "• Offline listening (when downloaded)",
+    "audioNote": "Note: Audio files are streamed online. For offline listening, download feature will be available in future updates.",
+    "cacheCleared": "🗑️ Cache cleared successfully",
+    "cacheError": "❌ Failed to clear cache: {error}",
+    "@cacheError": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "totalEntries": "• Total entries: {count}",
+    "@totalEntries": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "validEntries": "• Valid entries: {count}",
+    "@validEntries": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "expiredEntries": "• Expired entries: {count}",
+    "@expiredEntries": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "noCachedData": "No cached data found.",
+    "allProgressReset": "All progress has been reset",
+    "categoryProgressReset": "{category} progress has been reset",
+    "@categoryProgressReset": {
+        "placeholders": {
+            "category": {
+                "type": "String"
+            }
+        }
+    },
+    "resetCategory": "Reset Category",
+    "resetCategoryConfirm": "Reset {category}",
+    "@resetCategoryConfirm": {
+        "placeholders": {
+            "category": {
+                "type": "String"
+            }
+        }
+    },
+    "settingsResetToDefaults": "Settings reset to defaults",
+    "cacheClaredSuccessfully": "Cache cleared successfully",
+    "readingHistoryCleared": "Reading history cleared",
+    "allAppDataReset": "All app data has been reset",
+    "resetAllDataDescription": "This will permanently delete ALL app data including:\n\n• All bookmarks\n• Reading progress\n• Downloaded audio files\n• Settings preferences\n• Cache data\n\nThis action cannot be undone. Are you absolutely sure?",
+    "finalConfirmation": "Final Confirmation",
+    "typeDeleteToConfirm": "Type \"DELETE\" to confirm:",
+    "resetEverything": "Reset Everything",
+    "importBookmarksComingSoon": "Import bookmarks feature coming soon!",
+    "exportProgressComingSoon": "Export reading progress feature coming soon!",
+    "size": "Size: {size}",
+    "@size": {
+        "placeholders": {
+            "size": {
+                "type": "int"
+            }
+        }
+    },
+    "speedMultiplier": "{speed}x",
+    "@speedMultiplier": {
+        "placeholders": {
+            "speed": {
+                "type": "double"
+            }
+        }
+    },
+    "progressPercentage": "{percentage}%",
+    "@progressPercentage": {
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
+    },
+    "downloadsCount": "{count} Downloads",
+    "@downloadsCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "activeDownloadsCount": "{count} Active",
+    "@activeDownloadsCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "error": "Error: {error}",
+    "@error": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "notifications": "Notifications",
+    "enableNotifications": "Enable Notifications",
+    "vibrationEnabled": "Vibration",
+    "storageAndData": "Storage & Data",
+    "manageDownloads": "Manage Downloads",
+    "autoCacheSurahs": "Auto Cache Surahs",
+    "cacheLimit": "Cache Limit",
+    "clearAllDownloadsDesc": "This will remove all downloaded audio files. You'll need to download them again for offline listening. Are you sure?",
+    "clearReadingHistoryDesc": "This will permanently delete all your reading progress and history. This action cannot be undone. Are you sure?",
+    "quranApp": "Quran App",
+    "assalamuAlaikum": "Assalamu Alaikum",
+    "welcomeToYourQuranJourney": "Welcome to your Quran journey",
+    "browseSurahs": "Browse Surahs",
+    "chapters": "chapters",
+    "searchVerses": "Search Verses",
+    "findSpecificVerses": "Find specific verses",
+    "audioRecitations": "Audio Recitations",
+    "reciters": "reciters",
+    "azkarAndDhikr": "Azkar & Dhikr",
+    "dailyRemembrance": "Daily remembrance",
+    "savedVerses": "Saved verses",
+    "offlineContent": "Offline content",
+    "continueReading": "Continue Reading",
+    "verse": "Verse",
+    "progress": "Progress",
+    "tapToContinue": "Tap to continue",
+    "justNow": "Just now",
+    "minuteAgo": "minute ago",
+    "minutesAgo": "minutes ago",
+    "hourAgo": "hour ago",
+    "hoursAgo": "hours ago",
+    "dayAgo": "day ago",
+    "daysAgo": "days ago",
+    "audioReciters": "Audio Reciters",
+    "aboutAudio": "About Audio",
+    "searchReciters": "Search reciters...",
+    "errorLoadingReciters": "Error Loading Reciters",
+    "noRecitersFound": "No Reciters Found",
+    "tryDifferentKeywords": "Try different keywords",
+    "aboutAudioRecitations": "About Audio Recitations",
+    "listenToBeautifulQuran": "Listen to beautiful Quran recitations by renowned reciters from around the world.",
+    "features": "Features:",
+    "highQualityAudio": "• High-quality audio",
+    "multipleReciters": "• Multiple reciters",
+    "backgroundPlayback": "• Background playback",
+    "speedControl": "• Speed control",
+    "offlineListening": "• Offline listening (when downloaded)",
+    "audioNote": "Note: Audio files are streamed online. For offline listening, download feature will be available in future updates.",
+    "gotIt": "Got it",
+    "collectionsAvailable": "collection(s) available",
+    "currentlyPlaying": "Playing",
+    "currentlySelected": "Selected",
+    "chooseSurahToListen": "Choose a Surah to listen to",
+    "searchSurahs": "Search surahs...",
+    "downloaded": "Downloaded",
+    "downloadAudio": "Download Audio",
+    "playAudio": "Play Audio",
+    "downloadStartedFor": "Download started for {surahName}",
+    "@downloadStartedFor": {
+        "placeholders": {
+            "surahName": {
+                "type": "String"
+            }
+        }
+    },
+    "failedToStartDownload": "Failed to start download"
+}
