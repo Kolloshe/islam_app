@@ -41,8 +41,8 @@ A beautiful and feature-rich Quran application built with Flutter, offering a co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/quran_app.git
-   cd quran_app
+   git clone https://github.com/Kolloshe/islam_app.git
+   cd islam_app
    ```
 
 2. **Install dependencies**
